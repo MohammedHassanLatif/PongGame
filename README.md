@@ -1,1 +1,1 @@
-# PongGame
+Enjoy the timeless classic Pong brought to life with JavaScript and HTML. Compete against the computer or a friend in this simple yet addictive game. Learn the basics of game development and HTML5 canvas while having fun. Let the paddle action begin!"
